@@ -21,9 +21,9 @@ I added the following referenced to the graphics project:
 For example it uses the following function call of the ScopeGuard project:
 ![image](https://user-images.githubusercontent.com/63023478/133158810-2b3c7a3f-2c57-43ec-a027-c426cf29786f.png)
 
-Initially I had added the Platform project since it was listed in the includes, I figured, I'll add everthing that is included. However, it doesn't call a function from a cpp file, therefore the graphics library doesn't need a reference of the Platform project.
+Initially I had added the Platform project since it was listed in the includes, I figured, I'll add everthing that is included. However, it doesn't call a function from a cpp file, therefore the graphics library doesn't need a reference of the Platform project. (documented on Page 84 of the full WriteUp)
 
-Projects referencing the graphics library: elaborated on page 84 of the full WriteUp. 
+And I added the graphics library to the Application project: elaborated on page 84 of the full WriteUp. 
 
     - How to get a CADE website set up	I found the place where to put the index.html in the Windows Explorer
     - However, rather than refreshing HTML I decided to use GitHub for submission
