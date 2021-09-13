@@ -11,6 +11,7 @@ Download link for full WriteUp: https://github.com/sunny-erika/EngineeringII_Gam
 WriteUp Summary:
 
 •	Summary of issues I encountered and solutions I found
+
     - I excluded all files in the Direct3D filter instead of just the Graphics.cpp.
     - Linking errors 	Joshua suggested to delete the entire solution and recreated it.
     - 1 Link error remained	I forgot to add the OpenGLExtension reference after setting up the solution again 
