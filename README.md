@@ -9,9 +9,6 @@ Download link for Game exe: https://github.com/sunny-erika/EngineeringII_Gamezip
 Download link for full WriteUp: https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/raw/main/WriteUp_Assignment01_compressed.pdf
 
 WriteUp Summary:
-Even though I don’t have any previous experience with Game Engines, from a Software Engineering perspective I really like that the code is not just simply put into one project with different classes but the functionality is separated into different projects each serving a different purpose. Theoretically the organization could be solved by filters which would only seems like a quick and dirty solution. That was actually the way we solved our solutions during my Bachelor degree. We had amazing professors and it was a great program, however, I wish we had had more hands-on-practice like we had during our C++ class with Joe and this Engineering II class. 
-I also feel that the coding style is very organized with plenty of comments and explanations. It is easily readable and there is a consistent naming conventions throughout the projects. 
-I really do appreciate the guidance we received with the step-by-step instructions on how to get the project set up. Thank you!!!
 
 •	Summary of issues I encountered and solutions I found
     - I excluded all files in the Direct3D filter instead of just the Graphics.cpp.
