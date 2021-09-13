@@ -23,6 +23,8 @@ WriteUp Summary:
     A log file in the x64 but none in the x86.
     But once I got the game running both configurations contained log files 😊
 [eae6320.log](https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/files/7157201/eae6320.log)
+![image](https://user-images.githubusercontent.com/63023478/133152152-afb6653f-c2e6-46ac-b31b-f82edba047ed.png)
+
 
 •	What I researched/what I was confused about
   - I was not sure where to apply the sin function to receive an oscillating value over time.
