@@ -32,6 +32,12 @@ WriteUp Summary:
   - RGB color palette	https://www.tug.org/pracjourn/2007-4/walden/color.pdf
   - How to create a GIF from a video	https://www.adobe.com/express/feature/video/video-to-gif (does not support MKV file)
 
+![ReleaseX64MyGame](https://user-images.githubusercontent.com/63023478/133151886-2a80a9a4-53b6-4b88-8e2f-b9d1a8c8ecfc.gif)
+
+[eae6320.log](https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/files/7157201/eae6320.log)
+
+
+
 Even though I don’t have any previous experience with Game Engines, from a Software Engineering perspective I really like that the code is not just simply put into one project with different classes but the functionality is separated into different projects each serving a different purpose. I prefer that to putting everything into one project and organizing it with filters. That way other projects can simply choose which Engine project they need to add as a reference. 
 I also feel that the coding style is very organized with plenty of comments and explanations. It is easily readable and there is a consistent naming convention throughout the projects. 
 I really do appreciate the guidance we received with the step-by-step instructions on how to get the project set up. Thank you!!!
