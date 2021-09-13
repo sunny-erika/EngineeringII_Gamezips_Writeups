@@ -6,7 +6,7 @@ Download link for Game zip: https://github.com/sunny-erika/EngineeringII_Gamezip
 
 Download link for Game exe: https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/raw/main/ReleaseX64MyGame.gif
 
-Download link for full WriteUp: https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/raw/main/WriteUp_Assignment01_compressed.pdf
+Download link for full WriteUp: https://github.com/sunny-erika/EngineeringII_Gamezips_Writeups/raw/main/WriteUp_compressed.pdf
 
 WriteUp Summary:
 
@@ -21,7 +21,7 @@ WriteUp Summary:
 
 •	Things I noticed
     A log file in the x64 but none in the x86.
-     But once I got the game running both configurations contained log files 😊
+    But once I got the game running both configurations contained log files 😊
 
 •	What I researched/what I was confused about
   - I was not sure where to apply the sin function to receive an oscillating value over time.
