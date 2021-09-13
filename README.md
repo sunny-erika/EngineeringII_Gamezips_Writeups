@@ -15,6 +15,7 @@ WriteUp Summary:
     - Linking errors 	Joshua suggested to delete the entire solution and recreated it.
     - 1 Link error remained	I forgot to add the OpenGLExtension reference after setting up the solution again 
 I added the following referenced to the graphics project:
+
 ![image](https://user-images.githubusercontent.com/63023478/133152594-633c0e89-f83f-4769-a492-5a8d9c05442f.png)
 
     - How to get a CADE website set up	I found the place where to put the index.html in the Windows Explorer
