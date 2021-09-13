@@ -18,6 +18,10 @@ WriteUp Summary:
 I added the following referenced to the graphics project:
 
 ![image](https://user-images.githubusercontent.com/63023478/133152594-633c0e89-f83f-4769-a492-5a8d9c05442f.png)
+For example it uses the following function call of the ScopeGuard project:
+![image](https://user-images.githubusercontent.com/63023478/133158810-2b3c7a3f-2c57-43ec-a027-c426cf29786f.png)
+
+Projects referencing the graphics library: elaborated on page 84 of the full WriteUp. 
 
     - How to get a CADE website set up	I found the place where to put the index.html in the Windows Explorer
     - However, rather than refreshing HTML I decided to use GitHub for submission
