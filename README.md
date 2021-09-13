@@ -20,8 +20,8 @@ WriteUp Summary:
     - I accidentally also changed the name of the standard.shader in the Vertex path in the cpp file, so I changed it back to standard 😊 
 
 •	Things I noticed
- 	A log file in the x64 but none in the x86.
-  But once I got the game running both configurations contained log files 😊
+    A log file in the x64 but none in the x86.
+     But once I got the game running both configurations contained log files 😊
 
 •	What I researched/what I was confused about
   - I was not sure where to apply the sin function to receive an oscillating value over time.
